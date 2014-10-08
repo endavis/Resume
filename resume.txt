@@ -1,4 +1,4 @@
-<!-- Updated 10/08/14 1325:09 -->
+<!-- Updated 10/08/14 13:26:22 -->
 # Eric Davis
 
  * <endavis@gmail.com>
@@ -34,6 +34,7 @@ The Georgia Institute of Technology, Atlanta, GA
 ## Experience
 ### The George Washington University : 7/2005 - Present
  _Information Systems Coordinator (Senior)_
+
  * Storage Administration
   * NetApp C-mode and 7-mode, EMC VNX and VMAX
   * Managed over 1 PB of storage for Enterprise Applications and Virtualization
