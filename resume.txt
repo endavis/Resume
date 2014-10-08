@@ -33,7 +33,7 @@ The Georgia Institute of Technology, Atlanta, GA
 
 ## Experience
 ### The George Washington University
- __*7/2005 - Present : Information Systems Coordinator (Senior)*__
+__*7/2005 - Present : Information Systems Coordinator (Senior)*__
 
  * Storage Administration
   * NetApp C-mode and 7-mode, EMC VNX and VMAX
@@ -51,7 +51,7 @@ The Georgia Institute of Technology, Atlanta, GA
   * provided storage for vSphere environment
   * created and built Linux and Windows VMs
 
- __*1/2004 - 7/2005 : Analyst User Tech Support*__
+__*1/2004 - 7/2005 : Analyst User Tech Support*__
 
  * Hardware Support
   * Desktop and laptop troubleshooting and repairs
