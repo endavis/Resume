@@ -32,8 +32,8 @@ The Georgia Institute of Technology, Atlanta, GA
   * Cisco Fibre Channel Switches
 
 ## Experience
-### The George Washington University : 7/2005 - Present
- _Information Systems Coordinator (Senior)_
+### The George Washington University
+ _Information Systems Coordinator (Senior)_ __7/2005 - Present__
 
  * Storage Administration
   * NetApp C-mode and 7-mode, EMC VNX and VMAX
