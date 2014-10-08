@@ -15,7 +15,15 @@ Computer Science, B.S. <BR>
 The Georgia Institute of Technology, Atlanta, GA
 
 ## Proficiency
-
+ * System Administration on RedHat and SUSE
+  * Kickstart, Autoyast
+  * SSH
+  * Apache
+ * Scripting Languages
+  * BASH
+  * Python
+  * Perl
+  * Powershell
 
 ## Experience
 
