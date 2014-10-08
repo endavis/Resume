@@ -30,6 +30,7 @@ The Georgia Institute of Technology, Atlanta, GA
   * NetApp, both 7-Mode and C-Mode
   * EMC VMAX and VNX
   * Cisco Fibre Channel Switches
+<div class="page-break"></div>
 
 ## Experience
 ### The George Washington University
@@ -81,4 +82,3 @@ __*1/2004 - 7/2005 : Analyst User Tech Support*__
  * Novell ATT Live – 12/2010, 12/2009, 12/2008, 12/2007, 12/2006
  * EMC DD880 – 10/2010
  * ATT Linux Training – 02/2006
- 
