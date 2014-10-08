@@ -5,13 +5,14 @@
 
 ## Background
 
-I am technology person. My expertise includes scripting languages, system administration and storage administration.
+I am a technology person. My expertise includes scripting, system administration and storage administration.
+
+In my free time I like to spend time with my family as well as play pool.
 
 ## Education
 
-Computer Science, B.S.  
-Fall 1994 - Winter 2001  
-The Georgia Institute of Technology, Atlanta, GA 
+Computer Science, B.S.
+The Georgia Institute of Technology, Atlanta, GA
 
 ## Proficiency
 
