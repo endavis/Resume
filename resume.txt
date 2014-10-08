@@ -1,4 +1,4 @@
-<!-- Updated 10/08/14 13:30:30 -->
+<!-- Updated 10/08/14 13:38:30 -->
 # Eric Davis
 
  * <endavis@gmail.com>
@@ -51,5 +51,15 @@ The Georgia Institute of Technology, Atlanta, GA
   * provided storage for vSphere environment
   * created and built Linux and Windows VMs
 
+ __*1/2004 - 7/2005 : Analyst User Tech Support*__
 
+ * Hardware Support
+  * Desktop and laptop troubleshooting and repairs
+  * Printer troubleshooting and repairs
+ * Desktop Support
+  * Windows XP
+  * Used Novell Zenworks for desktop administration
+ * Application Support
+  * Web Browsers
+  * Microsoft Office
 
