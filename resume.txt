@@ -63,3 +63,22 @@ __*1/2004 - 7/2005 : Analyst User Tech Support*__
   * Web Browsers
   * Microsoft Office
 
+# Certifications
+
+ * ITIL Foundations v3 – 05/2011
+ * Novell Certified Linux Engineer 10 – 12/2010
+ * Novell Certified Administrator – Enterprise Services – 12/2009
+ * Novell Certified Linux Administrator 11 – 12/2009
+ * Novell Certified Linux Professional – 12/2006
+
+# Training
+
+ * NetApp Data ONTAP Cluster-Mode Administration – 11/2012
+ * VMware vSphere: Install, Configure, Manage [5.0] – 10/2012
+ * IT Project Management – 02/2012
+ * NetApp Accelerated NCDA Boot Camp ONTAP 8.0 7-Mode – 10/2011
+ * ITIL Foundations v3 Training – 05/2011
+ * Novell ATT Live – 12/2010, 12/2009, 12/2008, 12/2007, 12/2006
+ * EMC DD880 – 10/2010
+ * ATT Linux Training – 02/2006
+ 
