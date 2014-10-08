@@ -33,7 +33,7 @@ The Georgia Institute of Technology, Atlanta, GA
 
 ## Experience
 ### The George Washington University
- __7/2005 - Present__ : _Information Systems Coordinator (Senior)_
+ __*7/2005 - Present : Information Systems Coordinator (Senior)*__
 
  * Storage Administration
   * NetApp C-mode and 7-mode, EMC VNX and VMAX
