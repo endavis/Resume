@@ -5,7 +5,7 @@
 
 ## Background
 
-I am a technology person. My expertise includes scripting, system administration and storage administration.
+I am a technology person. My expertise includes scripting, Linux system administration and storage administration.
 
 In my free time I like to spend time with my family as well as play pool.
 
@@ -20,11 +20,34 @@ The Georgia Institute of Technology, Atlanta, GA
   * SSH
   * Apache
  * Scripting Languages
-  * BASH
+  * Bash
   * Python
   * Perl
   * Powershell
+  * Lua
+ * Storage Administration
+  * NetApp, both 7-Mode and C-Mode
+  * EMC VMAX and VNX
+  * Cisco Fibre Channel Switches
 
 ## Experience
+### The George Washington University : 7/2005 - Present
+ *Information Systems Coordinator (Senior)*
+ * Storage Administration
+  * NetApp C-mode and 7-mode, EMC VNX and VMAX
+  * Managed over 1 PB of storage for Enterprise Applications and Virtualization
+  * Protocols include CIFS, NFS, iSCSI, and Fibre Channel
+  * Troubleshooting of any storage issues
+  * Setup environments for Monitoring and Alerting of storage systems
+ * System Administration
+  * Managed SLES and RedHat servers
+  * Created Autoyast and Kickstart environments for builds
+  * Used puppet for configuration management
+  * Created scripts for system checks
+  * Built Nagios environment for monitoring
+ * VSphere Administration
+  * provided storage for vSphere environment
+  * created and built Linux and Windows VMs
+
 
 
