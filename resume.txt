@@ -52,7 +52,15 @@ __*7/2005 - Present : Information Systems Coordinator (Senior)*__
   * provided storage for vSphere environment
   * created and built Linux and Windows VMs
 
-__*1/2004 - 7/2005 : Analyst User Tech Support*__
+__*1/2005 - 7/2005 : Internetwork Specialist*__
+
+ * Support for DIT contract clients
+  * Novell eDirectory
+  * Novell iPrint
+  * Novell File Sharing
+ * Hardware, Desktop, Application support
+
+__*1/2004 - 1/2005 : Analyst User Tech Support*__
 
  * Hardware Support
   * Desktop and laptop troubleshooting and repairs
