@@ -33,7 +33,9 @@ The Georgia Institute of Technology, Atlanta, GA
 <div class="page-break"></div>
 
 ## Experience 
+
 <small class="download">Full work history <a href="workhistory.html">here.</a>.</small>
+
 ### The George Washington University
 __*7/2005 - Present : Information Systems Coordinator (Senior)*__
 
