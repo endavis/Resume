@@ -20,12 +20,13 @@ The Georgia Institute of Technology, Atlanta, GA
   * Kickstart, Autoyast
   * SSH
   * Apache
- * Scripting Languages
+ * Programming Languages
   * Bash
   * Python
   * Perl
   * Powershell
   * Lua
+  * HTML/CSS
  * Storage Administration
   * NetApp, both 7-Mode and C-Mode
   * EMC VMAX and VNX
@@ -50,6 +51,7 @@ __*7/2005 - Present : Information Systems Coordinator (Senior)*__
   * Used puppet for configuration management
   * Created scripts for system checks for both Linux and Windows
   * Built Nagios environment for monitoring
+  * Created a wiki for documentation
  * VSphere Administration
   * provided storage for vSphere environment
   * created and built Linux and Windows VMs
