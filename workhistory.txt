@@ -131,7 +131,7 @@
           <li><strong>location:</strong> <code>read
             </code></li>
           <li class="last"><strong>line:
-            </strong> 70</li>
+            </strong> 72</li>
         </ul>
       </div>
       <div class="clear"></div>
@@ -162,7 +162,7 @@
 
             <li class="code app">
               
-              <ol start="63"
+              <ol start="65"
                   class="pre-context" id="pre-1"
                   onclick="toggle(1);">
                 
@@ -190,13 +190,13 @@
               </ol>
               
 
-              <ol start="70" class="context" id="1"
+              <ol start="72" class="context" id="1"
                   onclick="toggle(1);">
                 <li class="context-line" id="context-1"><code>  File.read(settings.config[&#x27;workhist&#x27;])</code></li>
               </ol>
 
               
-              <ol start="71" class="post-context"
+              <ol start="73" class="post-context"
                   id="post-1" onclick="toggle(1);">
                 
                 <li class="post-context-line"><code>end
@@ -220,7 +220,7 @@
 
             <li class="code app">
               
-              <ol start="63"
+              <ol start="65"
                   class="pre-context" id="pre-2"
                   onclick="toggle(2);">
                 
@@ -248,13 +248,13 @@
               </ol>
               
 
-              <ol start="70" class="context" id="2"
+              <ol start="72" class="context" id="2"
                   onclick="toggle(2);">
                 <li class="context-line" id="context-2"><code>  File.read(settings.config[&#x27;workhist&#x27;])</code></li>
               </ol>
 
               
-              <ol start="71" class="post-context"
+              <ol start="73" class="post-context"
                   id="post-2" onclick="toggle(2);">
                 
                 <li class="post-context-line"><code>end
@@ -5339,17 +5339,17 @@
          
          <tr>
            <td>rack.errors</td>
-           <td class="code"><div>#&lt;Object:0x000000026f3b58&gt;</div></td>
+           <td class="code"><div>#&lt;Object:0x00000001603aa0&gt;</div></td>
          </tr>
          
          <tr>
            <td>rack.input</td>
-           <td class="code"><div>#&lt;StringIO:0x00000002d92400&gt;</div></td>
+           <td class="code"><div>#&lt;StringIO:0x00000002bfa2f0&gt;</div></td>
          </tr>
          
          <tr>
            <td>rack.logger</td>
-           <td class="code"><div>#&lt;Logger:0x00000002d91ca8 @progname=nil, @level=1, @default_formatter=#&lt;Logger::Formatter:0x00000002d91c80 @datetime_format=nil&gt;, @formatter=nil, @logdev=#&lt;Logger::LogDevice:0x00000002d91c30 @shift_size=nil, @shift_age=nil, @filename=nil, @dev=#&lt;StringIO:0x00000002d924a0&gt;, @mutex=#&lt;Logger::LogDevice::LogDeviceMutex:0x00000002d91c08 @mon_owner=nil, @mon_count=0, @mon_mutex=#&lt;Mutex:0x00000002d91bb8&gt;&gt;&gt;&gt;</div></td>
+           <td class="code"><div>#&lt;Logger:0x00000002bf9c10 @progname=nil, @level=1, @default_formatter=#&lt;Logger::Formatter:0x00000002bf9be8 @datetime_format=nil&gt;, @formatter=nil, @logdev=#&lt;Logger::LogDevice:0x00000002bf9b98 @shift_size=nil, @shift_age=nil, @filename=nil, @dev=#&lt;StringIO:0x00000002bfa390&gt;, @mutex=#&lt;Logger::LogDevice::LogDeviceMutex:0x00000002bf9b70 @mon_owner=nil, @mon_count=0, @mon_mutex=#&lt;Mutex:0x00000002bf9b20&gt;&gt;&gt;&gt;</div></td>
          </tr>
          
          <tr>
