@@ -5339,17 +5339,17 @@
          
          <tr>
            <td>rack.errors</td>
-           <td class="code"><div>#&lt;Object:0x00000002057ab0&gt;</div></td>
+           <td class="code"><div>#&lt;Object:0x00000001147a70&gt;</div></td>
          </tr>
          
          <tr>
            <td>rack.input</td>
-           <td class="code"><div>#&lt;StringIO:0x000000026f4f08&gt;</div></td>
+           <td class="code"><div>#&lt;StringIO:0x000000017e4c48&gt;</div></td>
          </tr>
          
          <tr>
            <td>rack.logger</td>
-           <td class="code"><div>#&lt;Logger:0x000000026f47b0 @progname=nil, @level=1, @default_formatter=#&lt;Logger::Formatter:0x000000026f4788 @datetime_format=nil&gt;, @formatter=nil, @logdev=#&lt;Logger::LogDevice:0x000000026f4738 @shift_size=nil, @shift_age=nil, @filename=nil, @dev=#&lt;StringIO:0x000000026f4fa8&gt;, @mutex=#&lt;Logger::LogDevice::LogDeviceMutex:0x000000026f4710 @mon_owner=nil, @mon_count=0, @mon_mutex=#&lt;Mutex:0x000000026f46c0&gt;&gt;&gt;&gt;</div></td>
+           <td class="code"><div>#&lt;Logger:0x000000017e44f0 @progname=nil, @level=1, @default_formatter=#&lt;Logger::Formatter:0x000000017e44c8 @datetime_format=nil&gt;, @formatter=nil, @logdev=#&lt;Logger::LogDevice:0x000000017e4478 @shift_size=nil, @shift_age=nil, @filename=nil, @dev=#&lt;StringIO:0x000000017e4ce8&gt;, @mutex=#&lt;Logger::LogDevice::LogDeviceMutex:0x000000017e4400 @mon_owner=nil, @mon_count=0, @mon_mutex=#&lt;Mutex:0x000000017e4388&gt;&gt;&gt;&gt;</div></td>
          </tr>
          
          <tr>

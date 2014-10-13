@@ -32,7 +32,7 @@ The Georgia Institute of Technology, Atlanta, GA
   * Cisco Fibre Channel Switches
 <div class="page-break"></div>
 
-## Experience <div class="hideonprint" style="font-size:15px;display:inline-block;">Full work history <a href="workhistory.html">here</a>.</div>
+## Experience <div class="hideonprint" style="font-size:15px;display:inline-block;text-align: right;">Full work history <a href="workhistory.html">here</a>.</div>
 
 ### The George Washington University
 __*7/2005 - Present : Information Systems Coordinator (Senior)*__
