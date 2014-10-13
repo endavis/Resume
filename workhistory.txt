@@ -1,0 +1,93 @@
+<!-- Updated 10/08/14 13:38:30 -->
+# Eric Davis
+
+ * <endavis@gmail.com>
+ * <http://endavis.github.io>
+
+## Background
+
+I am a technology person. My expertise includes scripting, Linux system administration and storage administration.
+
+In my free time I like to spend time with my family as well as play pool.
+
+## Education
+
+Computer Science, B.S. <BR>
+The Georgia Institute of Technology, Atlanta, GA
+
+## Proficiency
+ * System Administration on RedHat and SUSE
+  * Kickstart, Autoyast
+  * SSH
+  * Apache
+ * Scripting Languages
+  * Bash
+  * Python
+  * Perl
+  * Powershell
+  * Lua
+ * Storage Administration
+  * NetApp, both 7-Mode and C-Mode
+  * EMC VMAX and VNX
+  * Cisco Fibre Channel Switches
+<div class="page-break"></div>
+
+## Experience
+### The George Washington University
+__*7/2005 - Present : Information Systems Coordinator (Senior)*__
+
+ * Storage Administration
+  * NetApp C-mode and 7-mode, EMC VNX, VMAX and DataDomain
+  * Managed over 1 PB of storage for Enterprise Applications and Virtualization
+  * Protocols include CIFS, NFS, iSCSI, and Fibre Channel
+  * Troubleshooting of any storage issues
+  * Setup environments for Monitoring and Alerting of storage systems
+ * System Administration
+  * Managed SLES and RedHat servers
+  * Created Autoyast and Kickstart environments for builds
+  * Used puppet for configuration management
+  * Created scripts for system checks
+  * Built Nagios environment for monitoring
+ * VSphere Administration
+  * provided storage for vSphere environment
+  * created and built Linux and Windows VMs
+
+__*1/2005 - 7/2005 : Internetwork Specialist*__
+
+ * Support for DIT contract clients
+  * Novell eDirectory
+  * Novell iPrint
+  * Novell File Sharing
+ * Hardware, Desktop, Application support
+
+__*1/2004 - 1/2005 : Analyst User Tech Support*__
+
+ * Hardware Support
+  * Desktop and laptop troubleshooting and repairs
+  * Printer troubleshooting and repairs
+ * Desktop Support
+  * Windows XP
+  * Used Novell Zenworks for desktop administration
+ * Application Support
+  * Web Browsers
+  * Microsoft Office
+<div class="page-break"></div>
+
+# Certifications
+
+ * ITIL Foundations v3 – 05/2011
+ * Novell Certified Linux Engineer 10 – 12/2010
+ * Novell Certified Administrator – Enterprise Services – 12/2009
+ * Novell Certified Linux Administrator 11 – 12/2009
+ * Novell Certified Linux Professional – 12/2006
+
+# Training
+
+ * NetApp Data ONTAP Cluster-Mode Administration – 11/2012
+ * VMware vSphere: Install, Configure, Manage [5.0] – 10/2012
+ * IT Project Management – 02/2012
+ * NetApp Accelerated NCDA Boot Camp ONTAP 8.0 7-Mode – 10/2011
+ * ITIL Foundations v3 Training – 05/2011
+ * Novell ATT Live – 12/2010, 12/2009, 12/2008, 12/2007, 12/2006
+ * EMC DD880 – 10/2010
+ * Novell ATT Linux Training – 02/2006
