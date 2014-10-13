@@ -28,4 +28,4 @@ body { color: #333333; line-height: 1.4em; background-color: #f9f9f9; font-famil
 
 .page-break { display: block; page-break-before: always; }
 
-.download { display: none !important; }
+.hideonprint { display: none !important; }
