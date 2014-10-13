@@ -37,7 +37,7 @@ The Georgia Institute of Technology, Atlanta, GA
 __*7/2005 - Present : Information Systems Coordinator (Senior)*__
 
  * Storage Administration
-  * NetApp C-mode and 7-mode, EMC VNX and VMAX
+  * NetApp C-mode and 7-mode, EMC VNX, VMAX and DataDomain
   * Managed over 1 PB of storage for Enterprise Applications and Virtualization
   * Protocols include CIFS, NFS, iSCSI, and Fibre Channel
   * Troubleshooting of any storage issues
