@@ -82,4 +82,4 @@ __*1/2004 - 7/2005 : Analyst User Tech Support*__
  * ITIL Foundations v3 Training – 05/2011
  * Novell ATT Live – 12/2010, 12/2009, 12/2008, 12/2007, 12/2006
  * EMC DD880 – 10/2010
- * ATT Linux Training – 02/2006
+ * Novell ATT Linux Training – 02/2006
