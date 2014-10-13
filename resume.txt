@@ -32,13 +32,14 @@ The Georgia Institute of Technology, Atlanta, GA
   * Cisco Fibre Channel Switches
 <div class="page-break"></div>
 
-## Experience <small class="hideonprint">Full work history <a href="workhistory.html">here.</a>.</small>
+## Experience <small class="hideonprint">Full work history <a href="workhistory.html">here</a>.</small>
 
 ### The George Washington University
 __*7/2005 - Present : Information Systems Coordinator (Senior)*__
 
  * Storage Administration
-  * NetApp C-mode and 7-mode, EMC VNX, VMAX and DataDomain
+  * NetApp C-mode and 7-mode
+  * EMC VNX, VMAX and DataDomain
   * Managed over 1 PB of storage for Enterprise Applications and Virtualization
   * Protocols include CIFS, NFS, iSCSI, and Fibre Channel
   * Troubleshooting of any storage issues
@@ -47,7 +48,7 @@ __*7/2005 - Present : Information Systems Coordinator (Senior)*__
   * Managed SLES and RedHat servers
   * Created Autoyast and Kickstart environments for builds
   * Used puppet for configuration management
-  * Created scripts for system checks
+  * Created scripts for system checks for both Linux and Windows
   * Built Nagios environment for monitoring
  * VSphere Administration
   * provided storage for vSphere environment
