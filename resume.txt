@@ -36,7 +36,7 @@ The Georgia Institute of Technology, Atlanta, GA
 ## Experience <div class="hideonprint" align="right" style="font-size:15px;font-weight: normal;"><a href="workhistory.html">Full work history</a></div>
 
 ### The George Washington University
-__*7/2005 - Present : Information Systems Coordinator (Senior)*__
+__*7/2005 - 2/2015 : Information Systems Coordinator (Senior)*__
 
  * Storage Administration
   * NetApp C-mode and 7-mode
