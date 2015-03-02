@@ -15,6 +15,7 @@ In my free time I like to spend time with my family, outdoors, and playing pool.
 Computer Science, B.S. <BR>
 The Georgia Institute of Technology, Atlanta, GA
 
+<div class="page-break"></div>
 ## Proficiency
  * Storage
   * NetApp, both 7-Mode and C-Mode
