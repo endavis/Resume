@@ -8,7 +8,7 @@
 
 I am a technology person. My expertise includes scripting, Linux system administration and storage administration.
 
-In my free time I like to spend time with my family as well as play pool.
+In my free time I like to spend time with my family, outdoors, and playing pool.
 
 ## Education
 
@@ -16,21 +16,28 @@ Computer Science, B.S. <BR>
 The Georgia Institute of Technology, Atlanta, GA
 
 ## Proficiency
- * System Administration on RedHat and SUSE
+ * Storage
+  * NetApp, both 7-Mode and C-Mode
+  * EMC VMAX, VNX, and DataDomain
+  * Cisco Fibre Channel Switches
+ * RedHat and SUSE
   * Kickstart, Autoyast
   * SSH
   * Apache
- * Programming Languages
+ * Windows Server 2003, 2008
+  * Builds
+  * Active Directory
+ * vSphere
+  * Storage
+  * User Administration
+  * VM Administration
+ * Programming and Scripting Languages
   * Bash
   * Python
   * Perl
   * Powershell
   * Lua
   * HTML/CSS
- * Storage Administration
-  * NetApp, both 7-Mode and C-Mode
-  * EMC VMAX and VNX
-  * Cisco Fibre Channel Switches
 <div class="page-break"></div>
 
 ## Experience <div class="hideonprint" align="right" style="font-size:15px;font-weight: normal;"><a href="workhistory.html">Full work history</a></div>
