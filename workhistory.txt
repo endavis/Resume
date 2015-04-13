@@ -24,7 +24,7 @@ __*7/2005 - 2/2015 : Information Systems Coordinator (Senior)*__
   * provided storage for vSphere environment
   * created and built Linux and Windows VMs
 
-__*1/2005 - 7/2005 : Internetwork Specialist*__
+__*1/2005 - 7/2005 : Internetworking Specialist*__
 
  * Support for DIT contract clients
   * Novell eDirectory
