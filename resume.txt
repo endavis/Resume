@@ -1,15 +1,17 @@
 <!-- Updated 10/08/14 13:38:30 -->
 # Eric Davis
+<table style="width: 100%">
+<tr>
+<td> <a mailto="endavis@gmail.com"> endavis@gmail.com </td>
+<td> <a href="http://endavis.github.io">http://endavis.github.io</a></td>
+</tr>
+<tr>
+<td>  </td>
+<td> <a href="http://linkedin.com/in/endavis">http://linkedin.com/in/endavis</td>
+</tr>
+</table>
 
- * <endavis@gmail.com>
- * <http://endavis.github.io>
- * <http://linkedin.com/in/endavis>
-
-## Background
-
-I am a technology person. My expertise includes scripting, Linux system administration and storage administration.
-
-In my free time I like to spend time with my family, outdoors, and playing pool.
+With over 20 years of experience in Information Technology, I am a highly driven individual with a diverse background. This has allowed me to expand my skill set, and given me many challenges to improve my personal and technical skills. I have worked with end users, technical engineers, and coworkers to solve many problems. I learn and adapt quickly to new challenges. For the past 3 years, I have managed over 1 PB of data for a large university. I am seeking a full time job where I can utilize my skills and work with great people.
 
 ## Education
 
@@ -62,6 +64,14 @@ The Georgia Institute of Technology, Atlanta, GA
 <td class="prof-data"> HTML/CSS </td>
 </tr>
 </table>
+
+# Certifications
+
+ * ITIL Foundations v3 – 05/2011
+ * Novell Certified Linux Engineer 10 – 12/2010
+ * Novell Certified Administrator – Enterprise Services – 12/2009
+ * Novell Certified Linux Administrator 11 – 12/2009
+ * Novell Certified Linux Professional – 12/2006
 <div class="page-break"></div>
 
 ## Experience <div class="hideonprint" align="right" style="font-size:15px;font-weight: normal;"><a href="workhistory.html">Full work history</a></div>
@@ -108,14 +118,6 @@ __*1/2004 - 1/2005 : Analyst User Tech Support*__
   * Web Browsers
   * Microsoft Office
 
-# Certifications
-
- * ITIL Foundations v3 – 05/2011
- * Novell Certified Linux Engineer 10 – 12/2010
- * Novell Certified Administrator – Enterprise Services – 12/2009
- * Novell Certified Linux Administrator 11 – 12/2009
- * Novell Certified Linux Professional – 12/2006
-
 # Training
 
  * NetApp Data ONTAP Cluster-Mode Administration – 11/2012
@@ -126,3 +128,4 @@ __*1/2004 - 1/2005 : Analyst User Tech Support*__
  * Novell ATT Live – 12/2010, 12/2009, 12/2008, 12/2007, 12/2006
  * EMC DD880 – 10/2010
  * Novell ATT Linux Training – 02/2006
+

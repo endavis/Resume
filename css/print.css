@@ -19,7 +19,7 @@ body { color: #333333; line-height: 1.4em; background-color: #f9f9f9; font-famil
 #resume ul li, #resume ol li { margin-top: 0.3em; margin-bottom: 0.3em; }
 #resume ul ul, #resume ul ol, #resume ol ul, #resume ol ol { margin-top: 0; margin-bottom: 0; }
 #resume blockquote { border-left: 5px solid #e0e0e0; margin: 1em 0; padding-left: 0.6em; }
-#resume a, #resume a:visited { color: #4183c4; text-decoration: none; }
+#resume a, #resume a:visited { color: black; text-decoration: none; }
 #resume a:hover { text-decoration: underline; }
 #resume img { max-width: 100%; }
 #resume blockquote { margin: 1em 0; border-left: 5px solid #e0e0e0; padding-left: 0.6em; color: #333333; }
