@@ -65,7 +65,7 @@ The Georgia Institute of Technology, Atlanta, GA
 </tr>
 </table>
 
-# Certifications
+## Certifications
 
  * ITIL Foundations v3 – 05/2011
  * Novell Certified Linux Engineer 10 – 12/2010
@@ -118,7 +118,7 @@ __*1/2004 - 1/2005 : Analyst User Tech Support*__
   * Web Browsers
   * Microsoft Office
 
-# Training
+## Training
 
  * NetApp Data ONTAP Cluster-Mode Administration – 11/2012
  * VMware vSphere: Install, Configure, Manage [5.0] – 10/2012
