@@ -74,7 +74,7 @@ The Georgia Institute of Technology, Atlanta, GA
  * Novell Certified Linux Professional – 12/2006
 <div class="page-break"></div>
 
-## Experience <div class="hideonprint" align="right" style="font-size:15px;font-weight: normal;"><a href="workhistory.html">Older work history</a> or <a href="resumefull.html">Full work history</a></div>
+## Experience
 
 ### Self Employed
 __*2/2015 - Present*__
@@ -125,6 +125,49 @@ __*1/2004 - 1/2005 : Analyst User Tech Support*__
  * Application Support
   * Web Browsers
   * Microsoft Office
+
+### Central Fire Protection
+__*7/2002 - 11/2003 : Design and Computer Support*__
+
+ * Support for 15 Windows 98/XP computers
+ * Designed File Sprinkler Protection systems for commercial and residential buildings
+ * Computer support for hardware, software, network, and printers
+
+### Georgia Bureau of Investigation
+__*9/1999 - 7/2001 : Forensic Computer Specialist*__
+
+ * Computer Forensics for criminal cases
+ * Investigation of crimes involving technology
+
+### Strauss and Walker, Attorneys at Law
+__*12/1998 - 08/1999 : Computer and Network Consultant*__
+
+ * Computer Forensics for civil and criminal cases
+ * Hardware and software support for Windows based laptops and desktops
+ * Local and Network printer installation, support, and troubleshooting
+
+### RaceTrac Petroleum
+__*10/1996 - 5/1998 : Information Systems Support (Co-op)*__
+
+ * PC installation, hardware and software and support for a 300 client Netware 3.12/Windows NT/Unix network
+ * Network support for both the Novell and NT networks including user administration, client support, and printer installation
+ * Local and network printer installation, support and troubleshooting
+
+<div class="page-break"></div>
+### Continuum Healthcare (EMR, Inc.)
+__*9/1995 - 12/1995 : Information Technology Support (Co-op)*__
+
+ * PC installation, hardware and software and support for a 100 client Netware 3.12 network
+ * Network support for the Novell network
+ * Local and network printer installation, support and troubleshooting
+
+### Sertec, Inc
+__*3/1995 - 9/1995 : Technical Support (Co-op)*__
+
+ * Installation, hardware, software and support for a 100 client Unix based network with Wyse terminals
+ * Network support
+ * SQL and Informix 4GL Programming
+ * Local and network printer installation, support and troubleshooting
 
 ## Training
 
