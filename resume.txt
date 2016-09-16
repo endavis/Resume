@@ -11,7 +11,7 @@
 </tr>
 </table>
 
-With over 20 years of experience in Information Technology, I am a highly driven individual with a diverse background. This has allowed me to expand my skill set, and given me many challenges to improve my personal and technical skills. I have worked with end users, technical engineers, and coworkers to solve many problems. I learn and adapt quickly to new challenges. For the past 3 years, I have managed over 1 PB of data for a large university. I am seeking a full time job where I can utilize my skills and work with great people.
+With over 20 years of experience in Information Technology, I am a highly driven individual with a diverse background. This has allowed me to expand my skill set, and given me many challenges to improve my personal and technical skills. I have worked with end users, technical engineers, and coworkers to solve many problems. I learn and adapt quickly to new challenges. I am seeking a full time job where I can utilize my skills and work with great people.
 
 ## Education
 
@@ -75,14 +75,6 @@ The Georgia Institute of Technology, Atlanta, GA
 <div class="page-break"></div>
 
 ## Experience <div class="hideonprint" align="right" style="font-size:15px;font-weight: normal;"><a href="workhistory.html">Older work history</a> or <a href="resumefull.html">Full work history</a></div>
-
-### Self Employed
-__*2/2015 - Present*__
-
- * Computer Repair
-  * Repair and replace hardware in desktops and laptops
-  * Reinstall Operating Systems
-  * Clean laptops and desktops of viruses, spam, and malware
 
 ### The George Washington University
 __*7/2005 - 2/2015 : Information Systems Coordinator (Senior)*__
